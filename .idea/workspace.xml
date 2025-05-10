@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a029c502-65bb-4fed-b1dd-33a300566a43" name="Changes" comment="" />
+    <list default="true" id="a029c502-65bb-4fed-b1dd-33a300566a43" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +29,12 @@
     &quot;assignee&quot;: &quot;Yermakhan05&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Yermakhan05/FPIS-Backend.git&quot;,
-    &quot;accountId&quot;: &quot;e2f7acf8-3b02-4b27-b999-ae9fb8ed0152&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Yermakhan05/backend.git",
+    "accountId": "e2f7acf8-3b02-4b27-b999-ae9fb8ed0152"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -189,7 +191,7 @@
       <workItem from="1746866332615" duration="16351000" />
       <workItem from="1746883465697" duration="59000" />
       <workItem from="1746883665825" duration="1798000" />
-      <workItem from="1746903109125" duration="2170000" />
+      <workItem from="1746903109125" duration="3098000" />
     </task>
     <servers />
   </component>
