@@ -27,7 +27,20 @@ DEBUG = False
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
-ALLOWED_HOSTS = ["*", ]
+
+ALLOWED_HOSTS = ["*"]  # или конкретные хосты
+
+CORS_ALLOW_ALL_ORIGINS = True  # у вас уже есть
+
+# … другие настройки …
+
+# === CSRF ===
+# Указываем, с каких origin-ов разрешены POST/PUT/DELETE запросы при CSRF-проверке
+CSRF_TRUSTED_ORIGINS = [
+    "https://backend-production-1d60.up.railway.app",
+    "https://backend-production-d019d.up.railway.app",
+    # добавьте все домены вашего фронта/бэка, с которых будете делать запросы
+]
 
 
 CORS_ALLOWED_ORIGINS = [
@@ -51,7 +64,6 @@ INSTALLED_APPS = [
     'channels',
     'chat'
 ]
-CORS_ALLOW_ALL_ORIGINS = True
 
 STATIC_URL   = "/static/"
 STATIC_ROOT  = BASE_DIR / "staticfiles"
