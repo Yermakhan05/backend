@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a029c502-65bb-4fed-b1dd-33a300566a43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/api/templates/chat/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/api/templates/chat/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +32,12 @@
     &quot;assignee&quot;: &quot;Yermakhan05&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Yermakhan05/backend.git",
-    "accountId": "e2f7acf8-3b02-4b27-b999-ae9fb8ed0152"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yermakhan05/backend.git&quot;,
+    &quot;accountId&quot;: &quot;e2f7acf8-3b02-4b27-b999-ae9fb8ed0152&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -46,30 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Django Server.backend.executor": "Run",
-    "Python tests.Python tests for test_chat.test_chat_flow.executor": "Run",
-    "Python tests.Python tests for tests.test_chat_flow.executor": "Run",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/yermakhankasymzhomart/Downloads/backend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "database.query.execution",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.backend.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_chat.test_chat_flow.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_chat_flow.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yermakhankasymzhomart/Downloads/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;database.query.execution&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/api/templates" />
@@ -195,7 +195,7 @@
       <workItem from="1746866332615" duration="16351000" />
       <workItem from="1746883465697" duration="59000" />
       <workItem from="1746883665825" duration="1798000" />
-      <workItem from="1746903109125" duration="20105000" />
+      <workItem from="1746903109125" duration="20675000" />
     </task>
     <servers />
   </component>
