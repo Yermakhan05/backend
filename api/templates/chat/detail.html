@@ -118,7 +118,7 @@
   const senderId = "{{ request.user.medic_profile.doctor_firebase_id }}";
   const token = "{{ request.user.medic_profile.doctor_firebase_id }}";  // или что-то подобное
   const chatSocket = new WebSocket(
-      'ws://' + window.location.host + '/ws/chat/' + chatId + '/?token=' + token
+      'wss://' + window.location.host + '/ws/chat/' + chatId + '/?token=' + token
   );
   chatSocket.onopen = function() {
     console.log("✅ WebSocket connected");
